@@ -1,0 +1,5 @@
+﻿  Assign3.cpp
+c:\users\muhammad hassnain\source\repos\assign3\assign3\quicksearchtree.h(191): warning C4172: returning address of local variable or temporary: founded
+c:\users\muhammad hassnain\source\repos\assign3\assign3\quicksearchtree.h(200): warning C4172: returning address of local variable or temporary: founded
+  Assign3.vcxproj -> C:\Users\Muhammad Hassnain\source\repos\Assign3\Debug\Assign3.exe
+  Assign3.vcxproj -> C:\Users\Muhammad Hassnain\source\repos\Assign3\Debug\Assign3.pdb (Partial PDB)
